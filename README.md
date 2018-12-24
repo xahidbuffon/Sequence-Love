@@ -1,3 +1,5 @@
+Visualizing a few famous integer sequences using Python. They are beautiful and gorgeous; aparently you can listen to them too: http://oeis.org/listen.html 
+
 ### Recaman sequence
 
 - [vizRecaman.py](vizRecaman.py)
@@ -5,8 +7,8 @@
 
 | B&W (N = 100, 400)  | Colored (N = 100, 400) | 
 |:--------------------|:----------------
-| ![det-86](/data/100b.png) |   ![det-106](/data/100c.png) | 
-| ![det-86](/data/400b.png) |   ![det-106](/data/400c.png) | 
+| ![det-100b](/data/100b.png) |   ![det-100c](/data/100c.png) | 
+| ![det-400b](/data/400b.png) |   ![det-400c](/data/400c.png) | 
 
 #### References
 - https://youtu.be/FGC5TdIiT9U
