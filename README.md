@@ -9,6 +9,6 @@
 | ![det-86](/data/400b.png) |   ![det-106](/data/400c.png) | 
 
 #### References
-- [1] https://youtu.be/FGC5TdIiT9U
-- [2] https://oeis.org/A005132
+- https://youtu.be/FGC5TdIiT9U
+- https://oeis.org/A005132
 
