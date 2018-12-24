@@ -1,8 +1,8 @@
 ### Recaman sequence
 
 - Run [vizRecaman.py](vizRecaman.py)
-- Sequence: 
-- Ref: [1]
+- Sequence: 0, 1, 3, 6, 2, 7, 13, 20, 12, 21, 11, 22, 10, ...
+- Ref: [1], [2]
 
 | b&w (N = 100, 400)  | colored (N = 100, 400) | 
 |:--------------------|:----------------
@@ -12,4 +12,5 @@
 
 ### Acknowledgements
 - [1] https://youtu.be/FGC5TdIiT9U
+- [2] https://oeis.org/A005132
 
