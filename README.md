@@ -1,4 +1,5 @@
-Visualizing a few famous integer sequences using Python. They are beautiful and gorgeous; aparently you can listen to them too: http://oeis.org/listen.html 
+Visualizing a few famous integer sequences using Python (matplotlib). 
+They are spectacular and beautiful; aparently you can listen to them too: http://oeis.org/listen.html 
 
 ### Recaman sequence
 
