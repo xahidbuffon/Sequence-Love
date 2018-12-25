@@ -24,7 +24,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 
 | N = 5  | N = 20 | N = 40 
 |:--------------------|:--------------------|:--------------------
-| ![det-100b](/data/100b.png) |   ![det-100c](/data/100c.png) |  ![det-100c](/data/100c.png) | 
+| ![det-5c](/data/5c.png) |   ![det-20c](/data/20c.png) |  ![det-40c](/data/40c.png) | 
 
 #### References
 - https://oeis.org/A000326
