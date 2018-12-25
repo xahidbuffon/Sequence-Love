@@ -39,6 +39,7 @@ def vizualizeRecaman(N=50, colored=False):
     """
     # get the sequence 
     seqRecaman = generateRecaman(N)
+    print ("Recaman sequence [{0}]: \n{1}".format(N, seqRecaman))
     # plot arcs for each number
     fig = plt.figure()
     ax = fig.add_subplot(111)
