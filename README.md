@@ -31,7 +31,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 
 |  Ulam spiral (N = 32)  | Ulam spiral (N = 256) 
 |:--------------------|:--------------------
-|   ![det-40c](/data/35p.png)  | ![det-20c](/data/256p.png) | 
+|   ![det-40c](/data/32p.png)  | ![det-20c](/data/256p.png) | 
 
 
 
