@@ -3,7 +3,7 @@
 @author: Jahid 
 @email: islam034@umn.edu
 
-visialier for Polygon sequence
+visualizer for Polygon sequence
 """
 from __future__ import division
 import numpy as np

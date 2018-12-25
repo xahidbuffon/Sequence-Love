@@ -3,7 +3,7 @@
 @author: Jahid 
 @email: islam034@umn.edu
 
-visialier for Recaman sequence
+visualizer for Recaman sequence
 """
 
 from __future__ import division
