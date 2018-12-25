@@ -61,8 +61,8 @@ def vizPrimePattern(N=32):
 
 
 
-N = 128  # side of the square N*N primes
-vizPrimePattern(N)
+N = 128  # side of the square 
+vizPrimePattern(N) # viz N*N primes
 
 
 
