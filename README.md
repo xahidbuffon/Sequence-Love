@@ -11,8 +11,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 | ![det-400b](/data/400b.png) |   ![det-400c](/data/400c.png) | 
 
 #### References
-- https://youtu.be/FGC5TdIiT9U
-- https://oeis.org/A005132
+- https://youtu.be/FGC5TdIiT9U, https://oeis.org/A005132
 
 
 ## Fibonacci sequence
@@ -20,12 +19,12 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - Script: [vizFibonacci.py](vizFibonacci.py)
 - Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...
 
-| Spiral (N = 100)  | Spiral (N = 300) | Spiral rect (N = 35) 
-|:--------------------|:--------------------|:--------------------
-| ![det-5c](/data/100fibo.png) |   ![det-20c](/data/300fibo.png) |  ![det-40c](/data/35fiborect.png) | 
+| Golden ration spiral (N = 300) | Fibonacci spiral (N = 35) 
+|:--------------------|:--------------------
+|   ![det-20c](/data/300fibo.png) |  ![det-40c](/data/35fiborect.png) | 
 
 #### References
-- https://oeis.org/A000326
+- https://oeis.org/A000045, https://en.wikipedia.org/wiki/Fibonacci_number
 
 
 
