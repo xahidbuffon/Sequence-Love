@@ -1,7 +1,7 @@
 Visualizing a few famous integer sequences using Python (matplotlib). 
 They are spectacular and beautiful; aparently you can listen to them too: http://oeis.org/listen.html 
 
-### Recaman sequence
+## Recaman sequence
 
 - [vizRecaman.py](vizRecaman.py)
 - Sequence: 0, 1, 3, 6, 2, 7, 13, 20, 12, 21, 11, 22, 10, ...
@@ -17,7 +17,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 
 
 
-### Pentagon sequence
+## Pentagon sequence
 
 - [vizPentagon.py](vizPentagon.py)
 - Sequence: 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176, 210, ...
