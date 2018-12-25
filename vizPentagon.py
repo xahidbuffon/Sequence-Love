@@ -53,9 +53,9 @@ def vizualizePentagon(N=5):
     # get the sequence 
     seqPolygon = generatePentagon(N)
     print ("Polygon sequence [{0}]: \n{1}".format(N, seqPolygon))
-
-    all_polys = getPentagons(seqPolygon)
-
+    # get the polygons
+    all_polys = getPentagons(N)
+    # draw the polygons
     fig, ax = plt.subplots()
     for poly in all_polys:
         ax.add_patch(poly)
@@ -63,11 +63,11 @@ def vizualizePentagon(N=5):
 
     ax.set_xlim((-1, N*2))
     ax.set_ylim((-1, N*2))
-
+    plt.savefig('data/Pentagon_viz.png')
     plt.show()
 
 
-N=15
+N=40
 vizualizePentagon(N)
 
 

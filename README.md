@@ -15,3 +15,17 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - https://youtu.be/FGC5TdIiT9U
 - https://oeis.org/A005132
 
+
+
+### Pentagon sequence
+
+- [vizPentagon.py](vizPentagon.py)
+- Sequence: 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176, 210, ...
+
+| N = 5  | N = 20 | N = 40 
+|:--------------------|:--------------------|:--------------------
+| ![det-100b](/data/100b.png) |   ![det-100c](/data/100c.png) |  ![det-100c](/data/100c.png) | 
+
+#### References
+- https://oeis.org/A000326
+
