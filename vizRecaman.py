@@ -16,13 +16,13 @@ colors=['blue', 'red', 'green', 'orange', 'pink', 'cyan', 'magenta', 'yellow']
 def generateRecaman(N=50):
     """ generates first N numbers in Recaman sequence
     """
-    seqRecaman = [0]
+    seq = [0]
     for i in range(1, N):
-        if (seqRecaman[-1] - i in seqRecaman) or (seqRecaman[-1] - i < 0):
-            seqRecaman.append(seqRecaman[-1] + i)
+        if (seq[-1] - i in seq) or (seq[-1] - i < 0):
+            seq.append(seq[-1] + i)
         else:
-            seqRecaman.append(seqRecaman[-1] - i)
-    return seqRecaman
+            seq.append(seq[-1] - i)
+    return seq
 
 
 def getColor(i, colored=False):
