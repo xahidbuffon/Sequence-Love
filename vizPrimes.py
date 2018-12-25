@@ -54,14 +54,14 @@ def vizPrimePattern(N=32):
     # Spiral (clockwise)
     spiral_Ulam = getUlamSpiral(isPrime.reshape((N, N)))
     # plot
-    plt.matshow(spiral_Ulam, cmap=cm.summer)
+    plt.matshow(spiral_Ulam, cmap=cm.binary) #cmap=cm.summer
     plt.axis('off')
     plt.savefig('data/Prime_viz.png')
     plt.show()
 
 
 
-N = 512  # side of the square N*N primes
+N = 128  # side of the square N*N primes
 vizPrimePattern(N)
 
 
