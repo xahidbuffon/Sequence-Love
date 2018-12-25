@@ -3,7 +3,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 
 ## Recaman sequence
 
-- [vizRecaman.py](vizRecaman.py)
+- Script: [vizRecaman.py](vizRecaman.py)
 - Sequence: 0, 1, 3, 6, 2, 7, 13, 20, 12, 21, 11, 22, 10, ...
 
 | B&W (N = 100, 400)  | Colored (N = 100, 400) | 
@@ -19,7 +19,7 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 
 ## Pentagon sequence
 
-- [vizPentagon.py](vizPentagon.py)
+- Script: [vizPentagon.py](vizPentagon.py)
 - Sequence: 1, 5, 12, 22, 35, 51, 70, 92, 117, 145, 176, 210, ...
 
 | N = 5  | N = 20 | N = 40 

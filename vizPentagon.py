@@ -67,7 +67,7 @@ def vizualizePentagon(N=5):
     plt.show()
 
 
-N=40
+N=8
 vizualizePentagon(N)
 
 
