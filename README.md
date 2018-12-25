@@ -6,9 +6,8 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - Script: [vizRecaman.py](vizRecaman.py)
 - Sequence: 0, 1, 3, 6, 2, 7, 13, 20, 12, 21, 11, 22, 10, ...
 
-| B&W (N = 100, 400)  | Colored (N = 100, 400) | 
+| B&W (N = 400)  | Colored (N = 400) | 
 |:--------------------|:----------------
-| ![det-100b](/data/100b.png) |   ![det-100c](/data/100c.png) | 
 | ![det-400b](/data/400b.png) |   ![det-400c](/data/400c.png) | 
 
 #### References
