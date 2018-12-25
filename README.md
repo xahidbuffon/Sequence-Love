@@ -29,9 +29,9 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - Sequence: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, ...
 - References: https://en.wikipedia.org/wiki/Prime_number, https://en.wikipedia.org/wiki/Ulam_spiral
 
-|  Ulam spiral (N = 32)  | Ulam spiral (N = 256) 
-|:--------------------|:--------------------
-|   ![det-40c](/data/32p.png)  | ![det-20c](/data/256p.png) | 
+|  Ulam spiral (N = 32)  | Ulam spiral (N = 256) | Ulam spiral (N = 256) 
+|:--------------------|:--------------------|:--------------------
+|   ![det-40c](/data/32p.png)  | ![det-20c](/data/256p.png) | ![det-20c](/data/256c.png) | 
 
 
 
