@@ -15,6 +15,19 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - https://oeis.org/A005132
 
 
+## Fibonacci sequence
+
+- Script: [vizFibonacci.py](vizFibonacci.py)
+- Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...
+
+| Spiral (N = 100)  | Spiral (N = 300) | Spiral rect (N = 35) 
+|:--------------------|:--------------------|:--------------------
+| ![det-5c](/data/100fibo.png) |   ![det-20c](/data/300fibo.png) |  ![det-40c](/data/35fiborect.png) | 
+
+#### References
+- https://oeis.org/A000326
+
+
 
 ## Pentagon sequence
 

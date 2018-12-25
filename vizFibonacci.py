@@ -26,11 +26,8 @@ def generateFibonacci(N=5):
 
 
 def vizualizeGoldenRatioSpiral(N=100):
-    """ generates Fibonacci sequence and spiral (golden ratio)
+    """ generates the golden-ratio spiral
     """
-    seqFibo = generateFibonacci(N)
-    #print ("Fibonacci sequence [{0}]: \n{1}".format(N, seqFibo))
-
     # Get the spirals
     from utils.geo_utils import getSpiralGoldenRatio
     spirals = getSpiralGoldenRatio(N)
@@ -53,11 +50,11 @@ def vizualizeGoldenRatioSpiral(N=100):
 
 
 
-def vizualizeFibonacciRectSpiral(N=15):
-    """ generates Fibonacci sequence and spiral (golden ratio)
+def vizualizeFibonacciSpiral(N=15):
+    """ generates Fibonacci sequence and spiral
     """
     seqFibo = generateFibonacci(N)
-    #print ("Fibonacci sequence [{0}]: \n{1}".format(N, seqFibo))
+    print ("Fibonacci sequence [{0}]: \n{1}".format(N, seqFibo))
 
     # Get the spirals
     from utils.geo_utils import getSpiralFibonacci
@@ -82,7 +79,7 @@ def vizualizeFibonacciRectSpiral(N=15):
 
 
 N=35
-vizualizeFibonacciRectSpiral(N)
+vizualizeFibonacciSpiral(N)
 
 #N=100
 #vizualizeGoldenRatioSpiral(N)
