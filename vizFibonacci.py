@@ -66,7 +66,7 @@ def vizualizeFibonacciSpiral(N=15):
     Ncolors = 10; colors=[]
     for j in range(N):
         colors.append((j % Ncolors) * 5) # choose a color
-        collection = PatchCollection(spirals, cmap=matplotlib.cm.jet, alpha=0.05)
+        collection = PatchCollection(spirals, cmap=matplotlib.cm.jet, alpha=0.06)
         collection.set_array(np.array(colors))
         # add the spiral to collection
         ax.add_collection(collection)

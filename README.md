@@ -19,9 +19,9 @@ They are spectacular and beautiful; aparently you can listen to them too: http:/
 - Script: [vizFibonacci.py](vizFibonacci.py)
 - Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, ...
 
-| Golden ration spiral (N = 300) | Fibonacci spiral (N = 35) 
+|  Fibonacci spiral (N = 35)  | Golden-ratio spiral (N = 300) 
 |:--------------------|:--------------------
-|   ![det-20c](/data/300fibo.png) |  ![det-40c](/data/35fiborect.png) | 
+|   ![det-40c](/data/35fiborect.png)  | ![det-20c](/data/300fibo.png) | 
 
 #### References
 - https://oeis.org/A000045, https://en.wikipedia.org/wiki/Fibonacci_number
